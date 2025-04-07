@@ -2,9 +2,9 @@
 class Hello {
 
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        System.out.println("goodbye world!");
 
-        for(int i = 0; i < 10; i++){
+        for (int i = 0; i < 10; i++) {
             System.out.println("Kent likes boba");
         }
     }
